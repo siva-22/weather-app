@@ -20,6 +20,7 @@ This is a simple weather app that provides current weather information for a spe
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## Screenshots
-![Screenshot (3)](https://github.com/siva-22/weather-app/assets/139442832/630c25cf-7e63-4738-9ff1-7c93965d5532)
-![Screenshot (2)](https://github.com/siva-22/weather-app/assets/139442832/86544229-52b3-46d5-9562-a78260db0547)
-![Screenshot (1)](https://github.com/siva-22/weather-app/assets/139442832/25f7d30a-522f-4854-94e8-ef1564e659e0)
+
+![Screenshot (1)](https://github.com/siva-22/weather-app/assets/139442832/c8d767fb-9639-4766-a542-1d63ed20b962)
+![Screenshot (2)](https://github.com/siva-22/weather-app/assets/139442832/2adaefaf-6ef7-42ed-950b-8c4a765f89eb)
+![Screenshot (3)](https://github.com/siva-22/weather-app/assets/139442832/6497af9c-4b0e-406a-ae1e-cff21f4cc60b)
